@@ -33,3 +33,10 @@ li.L1, li.L3, li.L5, li.L7, li.L9{background:#111;}
     .atn{color:#404;}
     .atv{color:#060;}
 }
+
+.comments {
+    width: 650px;
+    margin-left: auto;
+	margin-right: auto;
+    padding: 10px 0px 10px 0px;
+}
